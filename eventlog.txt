@@ -1,0 +1,8 @@
+2025-10-04T05:58:32.981Z - Application started 
+2025-10-04T05:58:32.983Z - Application Event Occured 
+2025-10-04T05:58:35.981Z - Current Memory usage is : 34.00 
+2025-10-04T05:58:38.993Z - Current Memory usage is : 33.96 
+2025-10-04T05:58:42.000Z - Current Memory usage is : 34.01 
+2025-10-04T05:58:45.008Z - Current Memory usage is : 34.19 
+2025-10-04T05:58:48.022Z - Current Memory usage is : 33.92 
+2025-10-04T05:58:51.037Z - Current Memory usage is : 34.15 
